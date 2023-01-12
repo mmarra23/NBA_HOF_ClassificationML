@@ -3,7 +3,7 @@ NBA Hall of Fame Predictive Machine Learning Development
 
 **Objective**
 
-The goal of this project was to predict NBA players who will enter the Hall of Fame (HOF) Players from players who are currently playing or have Retired after 2018. The approach would try different classifiers and identify the most accurate models used in the prediction based on the Precision and ROC primarly.
+The goal of this project was to predict NBA players who will enter the Hall of Fame (HOF) Players from players who are currently playing or have Retired after 2018. The approach would try different classifiers and identify the most accurate models used in the prediction based on the Precision and ROC primarily.
 
 **Data Selection**
 
@@ -19,17 +19,17 @@ Conducted basic statistical analyses and reviews with the original data set such
 
 **Data Cleaning & Transformation**
 * Add a binary column that would identify the Hall of Famer's in the dataset with a number 1.
-* Used data from 1980 to 2018 as the model train/test
-* Feature Analysis and Final Input Data
-* Conducted Feature Analysis via the Univariate ANVOA method to find the top 20 features we should use within our machine learning model
+* Used data from 1980 to 2018 as the model train/test.
+* Feature Analysis and Final Input Data.
+* Conducted Feature Analysis via the Univariate ANVOA method to find the top 20 features we should use within our machine learning model.
 * Assessed those 18 features through Pair Plot and Correlation to find any collinearity. 
 * Split the data into Train, Test, and Validation. 
-* Further, split our training/test/validation into target and predictor variables.
+* Further, split our training/test/validation into the target and predictor variables.
 * Applied feature scaling using the StandardScaler function.
 
 **Predictive Model Development & Analysis**
 
-* Employed classification modeling to predict the probability of each player entering in the HOF.
+* Employed classification modelling to predict the probability of each player entering the HOF.
 * Choose the top 3 classifiers for this predictive model: Random Forest, LGBM and XGBoost Boost. 
 * Developed, Hyperparameter Tuned, and fitted the 3 models with the train/test/validation data sets.
 * Reviewed the output of the predictions on the Test data. Along with the Precision and ROC values of each model.
@@ -48,7 +48,7 @@ Learning curve
 * The plot result shows the model performs well and does not show signs of over or underfitting.
 
 The top 5 features that highly impacted the classification model were as follows:
-* All Star appearances
+* All-Star appearances
 * Win Shares
 * Points per game
 * NBA 75 Team appearances
