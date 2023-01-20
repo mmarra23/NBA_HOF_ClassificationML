@@ -3,7 +3,7 @@ NBA Hall of Fame Predictive Machine Learning Development
 
 **Objective**
 
-The goal of this project was to predict NBA players who will enter the Hall of Fame (HOF) Players from players who are currently playing or have Retired after 2018. The approach would try different classifiers and identify the most accurate models used in the prediction based on the Precision and ROC primarily.
+The goal of this project was to predict NBA players who will enter the Hall of Fame (HOF) Players from players who are currently playing or have Retired after 2018. The approach would try different classifiers and identify the most accurate models used in the prediction based on the Precision and ROC primarily. Note, the python code is attached above in this repository.
 
 **Data Selection**
 
@@ -53,3 +53,7 @@ The top 5 features that highly impacted the classification model were as follows
 * Points per game
 * NBA 75 Team appearances
 * All NBA appearances
+
+Here is a sample of the ML classification output to predict the HOFers
+
+![nbahof](https://user-images.githubusercontent.com/89919659/213784591-033f3ae8-241f-4c1f-a749-bc621bee7b41.PNG)
