@@ -42,10 +42,14 @@ Random Forest Classifier performance:
 * Precision: 0.9897
 * ROC_AUC: 0.9678
 
+![image](https://user-images.githubusercontent.com/89919659/227675210-81824ddc-da91-408f-99ff-fee951998af0.png)
+
 Learning curve
 * Plotted the learning curve for the training data based on Precision.
 * Using the final selected ML model Random Forest with the hyperparameters stated above.
 * The plot result shows the model performs well and does not show signs of over or underfitting.
+
+![image](https://user-images.githubusercontent.com/89919659/227675275-6347dd0e-71d8-4b51-92f4-6c9135b47a7f.png)
 
 The top 5 features that highly impacted the classification model were as follows:
 * All-Star appearances
@@ -53,6 +57,8 @@ The top 5 features that highly impacted the classification model were as follows
 * Points per game
 * NBA 75 Team appearances
 * All NBA appearances
+
+![image](https://user-images.githubusercontent.com/89919659/227675332-c40c2f59-f136-48d6-83c0-c08e872cf84a.png)
 
 Here is a sample of the ML classification output to predict the HOFers
 
