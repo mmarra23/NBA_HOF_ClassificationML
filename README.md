@@ -66,4 +66,4 @@ Here is a sample of the ML classification output to predict the HOFers
 
 ***Update as of Feb 18, 2023***
 
-Looks like my top X predictions made the 2023 Hall of Fame Class of 2023: https://www.nba.com/news/naismith-memorial-basketball-hall-of-fame-finalists-class-of-2023
+Looks like my top 4 predictions made the 2023 Hall of Fame Class of 2023: https://www.nba.com/news/naismith-memorial-basketball-hall-of-fame-finalists-class-of-2023
