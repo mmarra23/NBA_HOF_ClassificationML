@@ -63,3 +63,7 @@ The top 5 features that highly impacted the classification model were as follows
 Here is a sample of the ML classification output to predict the HOFers
 
 ![nbahof](https://user-images.githubusercontent.com/89919659/213784591-033f3ae8-241f-4c1f-a749-bc621bee7b41.PNG)
+
+***Update as of Feb 18, 2023***
+
+Looks like my top X predictions made the 2023 Hall of Fame Class of 2023: https://www.nba.com/news/naismith-memorial-basketball-hall-of-fame-finalists-class-of-2023
